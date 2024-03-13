@@ -20,7 +20,6 @@ export default async function Page() {
             {data.map((country, index) => (
                 <div key={index} className={styles.countryCard}>
                     <h2>{country.name.common}</h2>
-                    <button>Details</button>
                 </div>
             ))}
         </main>
