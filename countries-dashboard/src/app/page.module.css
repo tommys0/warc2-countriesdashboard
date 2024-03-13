@@ -7,10 +7,21 @@
 .countryCard {
     background-color: #31363F;
     color: #fff;
-    border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    height: 80px;
+    border-radius: 8px;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 10px;
-    padding: 20px;
-    width: 300px;
     text-align: center;
+}
+
+.mainText {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
 }
