@@ -15,7 +15,11 @@ export default async function Page() {
 
     return (
         <main>
-
+            {data.map((country, index) => (
+                <div key={index} className="country-card">
+                    <h2>{country.name.common}</h2>
+                </div>
+            ))}
         </main>
     );
 }
