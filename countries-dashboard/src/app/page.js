@@ -17,6 +17,7 @@ export default async function Page() {
 
     return (
         <main className={styles.container}>
+            <h1 className={styles.mainText}>Click on the country card to see more</h1>
             {data.map((country, index) => (
                 <div key={index} className={styles.countryCard}>
                     <h2>{country.name.common}</h2>
