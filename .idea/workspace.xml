@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="">
+    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="Card button design">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
       <workItem from="1710242655258" duration="199000" />
       <workItem from="1710359746566" duration="969000" />
       <workItem from="1710360759602" duration="622000" />
-      <workItem from="1710361461333" duration="1145000" />
+      <workItem from="1710361461333" duration="1750000" />
     </task>
     <task id="LOCAL-00001" summary="Unversioned Files">
       <option name="closed" value="true" />
@@ -134,7 +133,47 @@
       <option name="project" value="LOCAL" />
       <updated>1710360452751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710362637893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362637893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Details button">
+      <option name="closed" value="true" />
+      <created>1710362733073</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362733073</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Globals css">
+      <option name="closed" value="true" />
+      <created>1710362738550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362738550</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Card design">
+      <option name="closed" value="true" />
+      <created>1710362753039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362753039</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Card button design">
+      <option name="closed" value="true" />
+      <created>1710362764183</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710362764183</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +196,10 @@
     <MESSAGE value="Get API info" />
     <MESSAGE value="Print API data" />
     <MESSAGE value="Update .xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update .xml" />
+    <MESSAGE value="Details button" />
+    <MESSAGE value="Globals css" />
+    <MESSAGE value="Card design" />
+    <MESSAGE value="Card button design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Card button design" />
   </component>
 </project>
