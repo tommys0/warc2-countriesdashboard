@@ -1,4 +1,6 @@
 import React from 'react';
+import styles from './page.module.css';
+import Link from "next/link";
 
 async function getData() {
     const res = await fetch('https://restcountries.com/v3.1/all');
@@ -14,10 +16,11 @@ export default async function Page() {
     const data = await getData();
 
     return (
-        <main>
+        <main className={styles.container}>
             {data.map((country, index) => (
-                <div key={index} className="country-card">
+                <div key={index} className={styles.countryCard}>
                     <h2>{country.name.common}</h2>
+                    <button>Details</button>
                 </div>
             ))}
         </main>
