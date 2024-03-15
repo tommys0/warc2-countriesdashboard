@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="Update .xml">
+    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="Card &amp; Text redesign">
+      <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/detail/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/detail/page.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.module.css" afterDir="false" />
     </list>
@@ -16,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -58,6 +62,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/countries-dashboard/src/app/[country]/detail" />
+      <recent name="$PROJECT_DIR$/countries-dashboard/src/app/[country]" />
       <recent name="$PROJECT_DIR$/countries-dashboard/src/app/api" />
     </key>
   </component>
@@ -90,7 +96,12 @@
       <workItem from="1710242655258" duration="199000" />
       <workItem from="1710359746566" duration="969000" />
       <workItem from="1710360759602" duration="622000" />
-      <workItem from="1710361461333" duration="2259000" />
+      <workItem from="1710361461333" duration="3728000" />
+      <workItem from="1710366005632" duration="90000" />
+      <workItem from="1710366125404" duration="1950000" />
+      <workItem from="1710397654071" duration="1752000" />
+      <workItem from="1710412588912" duration="51000" />
+      <workItem from="1710412691504" duration="3601000" />
     </task>
     <task id="LOCAL-00001" summary="Unversioned Files">
       <option name="closed" value="true" />
@@ -204,7 +215,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710363343636</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710363802631</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363802631</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Info H2">
+      <option name="closed" value="true" />
+      <created>1710363829361</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363829361</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Card &amp; Text redesign">
+      <option name="closed" value="true" />
+      <created>1710363939623</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710363939623</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +269,8 @@
     <MESSAGE value="Country button re-do pt.1" />
     <MESSAGE value="Removed useless code" />
     <MESSAGE value="Update .xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update .xml" />
+    <MESSAGE value="Info H2" />
+    <MESSAGE value="Card &amp; Text redesign" />
+    <option name="LAST_COMMIT_MESSAGE" value="Card &amp; Text redesign" />
   </component>
 </project>
