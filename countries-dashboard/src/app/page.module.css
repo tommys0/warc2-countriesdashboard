@@ -6,23 +6,48 @@
 
 .countryCard {
     background-color: #31363F;
-    color: #fff;
+    color: #ffffff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 250px;
-    height: 80px;
+    height: 300px;
     border-radius: 8px;
-    border: 0;
+    border: 1px solid #dddddd;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
     margin: 10px;
+    padding: 20px;
     text-align: center;
     text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.countryCard:hover {
+    transform: translateX(-5px) translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.countryCard img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.countryCard h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.countryCard p {
+    margin: 0;
+    font-size: 1rem;
+    color: #dddddd;
 }
 
 .mainText {
     width: 100%;
     text-align: center;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 2rem;
+    margin-bottom: 20px;
 }
