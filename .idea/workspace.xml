@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="Card &amp; Text redesign">
-      <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/detail/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/detail/page.module.css" afterDir="false" />
+    <list default="true" id="dcfe2677-e37e-4364-a7b5-f26e3cf0f394" name="Changes" comment="Removed link underline">
       <change afterPath="$PROJECT_DIR$/countries-dashboard/src/app/[country]/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/countries-dashboard/src/app/page.js" afterDir="false" />
@@ -84,6 +82,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-895bf479" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,6 +107,10 @@
       <workItem from="1710397654071" duration="1752000" />
       <workItem from="1710412588912" duration="51000" />
       <workItem from="1710412691504" duration="3601000" />
+      <workItem from="1710482195426" duration="5708000" />
+      <workItem from="1710761871868" duration="5359000" />
+      <workItem from="1710793679726" duration="877000" />
+      <workItem from="1710834850909" duration="2770000" />
     </task>
     <task id="LOCAL-00001" summary="Unversioned Files">
       <option name="closed" value="true" />
@@ -239,7 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710363939623</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update .xml">
+      <option name="closed" value="true" />
+      <created>1710482368985</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710482368985</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Removed link underline">
+      <option name="closed" value="true" />
+      <created>1710482395243</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710482395243</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,9 +293,10 @@
     <MESSAGE value="Primary colors change" />
     <MESSAGE value="Country button re-do pt.1" />
     <MESSAGE value="Removed useless code" />
-    <MESSAGE value="Update .xml" />
     <MESSAGE value="Info H2" />
     <MESSAGE value="Card &amp; Text redesign" />
-    <option name="LAST_COMMIT_MESSAGE" value="Card &amp; Text redesign" />
+    <MESSAGE value="Update .xml" />
+    <MESSAGE value="Removed link underline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed link underline" />
   </component>
 </project>
