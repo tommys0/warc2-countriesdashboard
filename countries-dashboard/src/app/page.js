@@ -19,7 +19,7 @@ export default async function Page() {
         <main className={styles.container}>
             <h1 className={styles.mainText}>Click on the country card to see more</h1>
             {data.map((country, index) => (
-                <Link key={index} href={`/${country.name.common}/`} className={styles.countryCard}>
+                <Link key={index} href={`/${country.cca2}/`} className={styles.countryCard}>
                     <h2>{country.name.common}</h2>
                     <img src={country.flags.png} alt={country.name.common}/>
                     <p>Population: {country.population}</p>
