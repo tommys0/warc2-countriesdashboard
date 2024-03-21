@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.country {
+    background-color: #31363F;
+    color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    border-radius: 8px;
+    border: 1px solid #dddddd;
+    padding: 20px;
+    text-align: center;
+}
+
+.country h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.country p {
+    margin-bottom: 8px;
+}
+
+.goBack {
+    display: inline-block;
+    background-color: #b4b4b4;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.goBack:hover {
+    background-color: #868686;
+}
